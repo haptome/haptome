@@ -21,17 +21,15 @@
 
 
 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="android" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="android" width="22" height="22"/> 
+<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> </code> 
+<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> </code> 
+<code><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> </code> 
+<code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="android" width="22" height="22"/> </code> 
+<code><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="android" width="22" height="22"/> </code> 
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-</code>    
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="22" height="22"/>
-</code> 
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></code>    
+<code> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="22" height="22"/></code> 
 
 <br>
 
