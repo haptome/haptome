@@ -45,7 +45,7 @@
 </a>
 <br>
 <a href="https://github.com/haptome">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=haptome&&show_icons=true&theme=light&line_height=27" alt=""/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=haptome&count_private=true&show_icons=true&theme=light&line_height=27" alt=""/>
 </a>
 <br>
 <a href="https://github.com/haptome/dot_navigation_bar">
