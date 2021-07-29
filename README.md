@@ -38,7 +38,7 @@
 <br>
 
 <br>
-
+<!-- <img src="https://komarev.com/ghpvc/?username=haptome&label=Profile%20views&color=0e75b6&style=flat" alt="haptome" /> -->
 
 <a href="https://github.com/haptome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haptome&count_private=true&theme=light&hide_langs_below=1" />
