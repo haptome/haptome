@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Shemsu](https://shemsu.co).
 - 🌱 I’m currently learning more about GraphQL.
-- 👯 I’m looking to collaborate on [Youtube]().
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCnEQPi77Wc_6OxE0CxYRjkA).
 
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Linkendin ](https://www.linkedin.com/in/habtmichael-hadush-26104717b/) , [Email](haptome2@icloud.com)
