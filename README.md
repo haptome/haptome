@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Shemsu](https://shemsu.co).
+- 🔭 I’m currently working on Something BIG.
 - 🌱 I’m currently learning more about GraphQL.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Linkendin ](https://www.linkedin.com/in/habtmichael-hadush-26104717b/) , [Email](haptome2@icloud.com)
