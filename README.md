@@ -8,10 +8,10 @@
 <br/>
 
 - 🔭 I’m currently working on Something BIG.
-- 🌱 I’m currently learning more about GraphQL.
+- 🌱 I’m currently learning more about { 🤔 } .
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Linkendin ](https://www.linkedin.com/in/habtmichael-hadush-26104717b/) , [Email](haptome2@icloud.com)
-- 😄 I'm almost spend 12+ hours working on private repos.
+- 😄 I'm almost spend 12+ hours working on private repos so i might be let to replay.
 
 
 **Languages and Tools:**  
